@@ -1,0 +1,42 @@
+// PAGINATION
+.pagination-description {
+    color: #333;
+}
+
+// SELECT 2
+.has-error .select2-container--default .select2-selection--single, .select2-selection .select2-selection--single {
+    border: 1px solid #dd4b39 !important;
+}
+
+// CARD DETAILS
+.featured-img {
+    border:2px solid #778beb;
+    padding: 2px;
+}
+.card-body p.nome {
+    font-size: 26px;
+    line-height: 20px;
+    text-align: center;
+    margin:15px 0 0 0;
+}
+.card-body p.perfil {
+    color:#666;
+    text-align: center;
+}
+
+// FILE SELECTOR
+.file-selector {
+    label{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-weight: normal !important;
+    }
+    input {
+        display:none !important;
+    }
+    .filename {
+        margin-left: 5px;
+    }
+}
+
