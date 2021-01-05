@@ -14,7 +14,7 @@
         "@fortawesome/fontawesome-free": "^5.12.1",
         "admin-lte": "^3.0.2",
         "animate.css": "^3.7.2",
-        "axios": "^0.19",
+        "axios": "^0.21",
         "bootstrap": "^4.0.0",
         "bootstrap-switch": "^3.4.0",
         "cross-env": "^7.0",
